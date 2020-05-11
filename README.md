@@ -16,6 +16,12 @@ For deep learning based models:
 ```
 with the desired model selected, scripts in shared folder, and files in _data_ subfolder.
 
+For results and paper figures:
+```sh
+python runSavedModel.py
+```
+with files and saved models in subfolders, for each model tested.
+
 
 ## Development setup
 
